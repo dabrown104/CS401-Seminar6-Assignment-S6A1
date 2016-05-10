@@ -1,0 +1,2 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList.UWP\ColorViewList.UWP.csproj;x86
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\ColorViewList.csproj;neutral

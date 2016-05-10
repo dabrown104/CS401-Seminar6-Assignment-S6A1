@@ -1,0 +1,12 @@
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\bin\Debug\ColorViewList.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\bin\Debug\ColorViewList.pdb
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\obj\Debug\ColorViewList.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\obj\Debug\ColorViewList.ColorViewListPage.xaml.g.cs
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\obj\Debug\ColorViewList.ColorView.xaml.g.cs
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\obj\Debug\ColorViewList.dll
+C:\Users\david\OneDrive\Documents\GitHub\CS-Seminar6-Assignment-S6A1\ColorViewList\ColorViewList\ColorViewList\obj\Debug\ColorViewList.pdb
